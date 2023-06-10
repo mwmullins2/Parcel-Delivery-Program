@@ -6,6 +6,4 @@ The program uses a self-adjusting algorithm known as the "Nearest Neighbor Algor
 
 The program was written in Python 3 using the PyCharm IDE. It uses a self-adjusting hash table to store and manage package data.
 
-## Complexity Analysis
-The time complexity of the program is O(n^2), where n is the number of packages, because the algorithm needs to calculate the distances between each pair of delivery locations. The space complexity is O(n) because the program needs to store the package data in memory.
 
